@@ -1,4 +1,4 @@
-.ve-header "Essay Title" background=LightCoral
+.ve-header "Essay Title" background=darkolivegreen
 
 
 
