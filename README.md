@@ -24,4 +24,4 @@ test text again [^3]
 [^2]: tester footnote
 
 
-.ve-media wc:Dr. James Still portrait.jpg
+.ve-media wc:Dr. James Still portrait.jpg right 
