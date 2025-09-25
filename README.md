@@ -24,4 +24,14 @@ test text again [^3]
 [^2]: tester footnote
 
 
-.ve-media wc:Dr. James Still portrait.jpg right 
+.ve-media wc:Dr. James Still portrait.jpg right caption James Still. This is an engraved portrait of Dr. James Still which was reproduced in his 1877 autobiography Early Recollections and Life of Dr. James Still. left
+
+
+
+
+
+To Add
+-comparison images
+-video
+-map
+-pop out
