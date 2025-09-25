@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-'image .ve-media wc:Dr. James Still portrait.jpg
+.ve-media wc:Dr. James Still portrait.jpg
 
 
 
