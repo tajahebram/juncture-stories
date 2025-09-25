@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-.ve-media wc:Dr. James Still portrait.jpg
+
 
 
 
@@ -22,3 +22,6 @@ test text again [^3]
 
 [^1]: Lorem ipsum text obtained from [https://loremipsum.io/#generator](https://loremipsum.io/#generator)
 [^2]: tester footnote
+
+
+.ve-media wc:Dr. James Still portrait.jpg
