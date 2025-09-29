@@ -33,8 +33,8 @@ test text again. [^3]
 
 
 
-To Add
-+comparison images
-+video
-+map
-+pop out
+*To Add*
++ comparison images
++ video
++ map
++ pop out
