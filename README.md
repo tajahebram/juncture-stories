@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 caption James Still. This is an engraved portrait of Dr. James Still which was reproduced in his 1877 autobiography Early Recollections and Life of Dr. James Still.
 
-
+.ve-media wc:Sunflower_sky_backdrop.jpg
 
 
 
