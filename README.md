@@ -12,8 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 .ve-media wc:Dr._James_Still_portrait.jpg right 
-
-![32px-Dr _James_Still_portrait](https://github.com/user-attachments/assets/f711437f-55f9-4983-b3f7-f622a078a225)
+![256px-Dr _James_Still_portrait](https://github.com/user-attachments/assets/9580f0af-03f1-476f-9b43-d73c3f3278b5)
 
 
 caption James Still. This is an engraved portrait of Dr. James Still which was reproduced in his 1877 autobiography Early Recollections and Life of Dr. James Still.
