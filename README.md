@@ -14,9 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![256px-Dr _James_Still_portrait](https://github.com/user-attachments/assets/9580f0af-03f1-476f-9b43-d73c3f3278b5) right
 
-.ve-annotate
 
-caption=James Still. This is an engraved portrait of Dr. James Still which was reproduced in his 1877 autobiography Early Recollections and Life of Dr. James Still.
+caption= "James Still. This is an engraved portrait of Dr. James Still which was reproduced in his 1877 autobiography Early Recollections and Life of Dr. James Still."
 
 .ve-media wc:Sunflower_sky_backdrop.jpg
 
